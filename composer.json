@@ -1,0 +1,13 @@
+{
+    "name": "zhanyichen/pro",
+    "description": "ZYCPRO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhanyichen",
+            "email": "38627724@qq.com"
+        }
+    ],
+    "require": {}
+}
